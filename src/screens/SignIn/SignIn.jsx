@@ -160,6 +160,7 @@ export default function SignIn() {
                   onChangeText={(value) => onChange(value)}
                   value={value}
                   placeholder="username"
+                  placeholderTextColor={"black"}
                   
                 />
               </View>
@@ -205,6 +206,7 @@ export default function SignIn() {
                   value={value}
                   placeholder="password"
                   secureTextEntry={true}
+                  placeholderTextColor={"black"}
                 />
               </View>
             )}
