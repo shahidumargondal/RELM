@@ -7,3 +7,14 @@
 {"level":"info","message":"One Record Updated","timestamp":"2024-10-08T22:00:17.303Z"}
 {"level":"info","message":"One Record Updated","timestamp":"2024-10-08T22:00:24.415Z"}
 {"level":"info","message":"Record Found","timestamp":"2024-10-08T22:01:07.787Z"}
+{"level":"info","message":"User Not Registered","timestamp":"2024-10-09T20:51:20.635Z"}
+{"level":"info","message":"User Not Registered","timestamp":"2024-10-09T20:51:27.475Z"}
+{"level":"info","message":"Record Found","timestamp":"2024-10-09T20:51:44.834Z"}
+{"errors":[{"instance":{"createdAt":"2024-10-09T20:54:56.157Z","id":{"val":"gen_random_uuid()"},"updatedAt":"2024-10-09T20:54:56.158Z"},"message":"Car.userId cannot be null","origin":"CORE","path":"userId","type":"notNull Violation","validatorArgs":[],"validatorKey":"is_null","validatorName":null,"value":null}],"level":"error","name":"SequelizeValidationError","timestamp":"2024-10-09T20:54:56.189Z"}
+{"errors":[{"instance":{"createdAt":"2024-10-09T20:55:23.098Z","id":{"val":"gen_random_uuid()"},"updatedAt":"2024-10-09T20:55:23.098Z"},"message":"Car.userId cannot be null","origin":"CORE","path":"userId","type":"notNull Violation","validatorArgs":[],"validatorKey":"is_null","validatorName":null,"value":null}],"level":"error","name":"SequelizeValidationError","timestamp":"2024-10-09T20:55:23.119Z"}
+{"errors":[{"instance":{"createdAt":"2024-10-09T20:56:52.727Z","id":{"val":"gen_random_uuid()"},"updatedAt":"2024-10-09T20:56:52.727Z"},"message":"Car.userId cannot be null","origin":"CORE","path":"userId","type":"notNull Violation","validatorArgs":[],"validatorKey":"is_null","validatorName":null,"value":null}],"level":"error","name":"SequelizeValidationError","timestamp":"2024-10-09T20:56:52.768Z"}
+{"level":"info","message":"Record Sucessfully Created","timestamp":"2024-10-09T20:58:15.335Z"}
+{"level":"info","message":"No Data Found","timestamp":"2024-10-09T20:58:22.763Z"}
+{"level":"info","message":"No Data Found","timestamp":"2024-10-09T20:58:27.520Z"}
+{"level":"info","message":"Record Found","timestamp":"2024-10-09T20:59:51.317Z"}
+{"level":"info","message":"One Record Updated","timestamp":"2024-10-09T21:01:01.270Z"}
